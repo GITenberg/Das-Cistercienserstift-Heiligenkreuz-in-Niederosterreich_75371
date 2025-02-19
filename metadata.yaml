@@ -1,0 +1,28 @@
+_repo: Das-Cistercienserstift-Heiligenkreuz-in-Niederosterreich_75371
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Heiligenkreuz, Stift
+    gutenberg_agent_id: '57970'
+    url: http://www.gutenberg.org/2009/agents/57970
+description: ''
+gutenberg_issued: '2025-02-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75371'
+language: de
+pgterms:marc904: https://digital.onb.ac.at/OnbViewer/viewer.faces?doc=ABO_%2BZ339481302
+pgterms:marc905: 20241011114315stiftheili
+pgterms:marc906: '1894'
+pgterms:marc907: AT
+production_note: Richard Illner and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images made available by The Austrian National Library)
+publication_note: '  $aWien :$bSelf-published. Printer: Rudolf Brzezowsky & Söhne,
+  $c1894.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Das Cistercienserstift Heiligenkreuz in Niederösterreich
+url: http://www.gutenberg.org/ebooks/75371
